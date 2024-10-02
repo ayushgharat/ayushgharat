@@ -18,18 +18,19 @@ I'm a **Computer Science student at Georgia Tech** with a passion for building i
 
 ## 🏆 Notable Projects
 
-### [CoFiscal](https://github.com/ayush-gharat/CoFiscal)
+### [CoFiscal](https://github.com/ayush-gharat/Cofiscal)
 - A loan risk analysis tool developed during HackGT, winning the **Capital One Best Financial Hack award**.
 - Used **LightGBM** model with 92% accuracy, predicting loan defaults based on 250,000 datapoints.
 - Integrated **Google’s PaLM-2** to provide personalized insights and reduce user input by 75%.
 
-### [DAISIE](https://github.com/ayush-gharat/DAISIE)
+### [DAISIE](https://github.com/ayush-gharat/Daisie)
 - AI-powered app for early detection of neurodegenerative diseases using handwriting analysis on iPads.
 - Built using **Xcode**, **Swift**, and **Flask**, leveraging machine learning models for predictions.
 
-### [CeeVi](https://github.com/ayush-gharat/CeeVi)
+### [CeeVi](https://github.com/ayush-gharat/Ceevi)
 - Chrome extension and website for tailored resume generation, developed using **Next.js**, **Plasmo**, and **GPT-4**.
 - Designed to streamline job application processes with automated document generation.
+
 ## 📚 Learning & Interests
 
 I’m always eager to learn and explore technologies that bridge the gap between **cognitive sciences**, **AI**, and real-world applications. My goal is to continue developing tools that enhance accessibility, improve lives, and drive technological innovation.
