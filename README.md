@@ -11,4 +11,7 @@ I'm a founding product engineer at [Bread](https://aibread.com), where I built [
 
 Start here → [Latent Scope](https://latent-scope.vercel.app)
 
+More projects below. Scroll through my pinned repos to see what else I'm exploring.
+
 [LinkedIn](https://linkedin.com/in/ayush-gharat) · [Website](https://ayush-gharat.vercel.app) · [gharatayush27@gmail.com](mailto:gharatayush27@gmail.com)
+
